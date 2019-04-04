@@ -2,6 +2,11 @@
 
 example of humidity control in proteus
 
+## requirements
+
+1. proteus 
+2. arduino ide
+
 ## components required
 
 1. arduino uno
@@ -42,3 +47,5 @@ example of humidity control in proteus
 7. OUT2 -> MOTOR
 8. GND -> external ground
 9. GND -> external ground
+
+# thats it!, I hope you will get success :)
